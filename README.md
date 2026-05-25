@@ -45,20 +45,14 @@ pip install pymem
 ## 1. Import the SimHub Definition
 
 1. Open SimHub
-2. Go to:
-
-```text
-Games > SimHub Dash Studio > Sim Games Configuration
-```
-
-3. Open the **Sim Definition Editor**
-4. Import:
+2. Open the **Sim Definition Editor**
+3. Import:
 
 ```text
 wmmt6.simdef
 ```
 
-5. Register/enable the game definition
+4. Register/enable the game definition
 
 ---
 
