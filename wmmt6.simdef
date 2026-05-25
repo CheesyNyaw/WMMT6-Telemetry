@@ -1,0 +1,43 @@
+{
+  "TelemetryBehaviour": {
+    "GameFamily": 1,
+    "DefaultMaxSpeed": 40.0,
+    "HasRumbleStripsContactSurface": true,
+    "AllowGimbleLockSanitizer": false
+  },
+  "TelemetryDefinition": {
+    "LayoutMajorVersion": 1,
+    "LayoutMinorVersion": 0,
+    "ProtocolVersion": 1,
+    "Fields": [
+      {
+        "FieldType": "SpeedKmh",
+        "TypeName": "StandardField"
+      },
+      {
+        "FieldType": "EngineRpm",
+        "TypeName": "StandardField"
+      },
+      {
+        "FieldType": "Gear",
+        "TypeName": "StandardField"
+      }
+    ]
+  },
+  "GameSignature": 569162402,
+  "TelemetrySignature": 923346655,
+  "Name": "Wangan Telemetry",
+  "UniqueId": "ce86f26d-7846-4e10-ab76-d303ebdf71bb",
+  "DefaultUDPPort": 20777,
+  "DetectionProcesses": [
+    {
+      "ProcessName": "wmn6r",
+      "FileChecks": []
+    }
+  ],
+  "SimStartCommand": null,
+  "SimStartArguments": null,
+  "UseExtractorProcess": false,
+  "ExtractorProcessCommand": null,
+  "IconPath": null
+}
