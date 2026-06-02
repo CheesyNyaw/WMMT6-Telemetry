@@ -2,6 +2,8 @@
 
 A lightweight telemetry bridge for **Wangan Midnight Maximum Tune 6 (WMMT6)** that reads in-game vehicle data directly from the game process and sends it to **SimHub** over UDP.
 
+##See also: [CardManagerOpenBana Source Repository](https://github.com/CheesyNyaw/CardManagerOpenBana/tree/master)
+
 Currently tested with:
 
 * WMMT6 Version `1.03.04`
